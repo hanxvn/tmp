@@ -1,0 +1,4 @@
+0:gasinterference
+1:normal
+2:others
+3:pumpoff
